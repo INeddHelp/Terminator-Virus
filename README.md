@@ -10,4 +10,4 @@ It only works on Windows
 #
 - How do i download it?
 
-Download the latest realease: 
+Download the latest realease: https://github.com/INeddHelp/Terminator-Virus/releases
